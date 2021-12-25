@@ -51,8 +51,16 @@ Output: 5
 **Example 2:**
 
 ```Python
-Input: num=5
+Input: num=23
 Output: 5
+
+```
+
+**Example 3:**
+
+```Python
+Input: num=200
+Output: 2
 
 ```
 
