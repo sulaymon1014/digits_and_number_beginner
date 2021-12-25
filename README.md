@@ -36,6 +36,28 @@ Output: 2
 **Constraints:**
 0<=x<=10<sup>5</sup>
 
+## Sum of digits #2
+
+A integer is given. Find the sum of digits in it.
+
+**Example 1:**
+
+```Python
+Input: num=5
+Output: 5
+
+```
+
+**Example 2:**
+
+```Python
+Input: num=5
+Output: 5
+
+```
+
+**Constraints:**
+0<=x<=10<sup>5</sup>
 
 # Warning
 - don't copy other solutions or any solution
